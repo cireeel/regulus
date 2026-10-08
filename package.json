@@ -1,0 +1,9 @@
+{
+  "name": "regulus",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "echo \"Add your app entrypoint here\""
+  }
+}
